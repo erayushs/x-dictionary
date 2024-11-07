@@ -23,7 +23,7 @@ function App() {
     if (word) {
       setMeaning(word.meaning);
     } else {
-      setMeaning("Word not found in the dictionary");
+      setMeaning("Word not found in the dictionary.");
     }
   }
 
